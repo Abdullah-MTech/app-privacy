@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Privacy Policy | Xombiemoon Records</title>
+  <style>
+    /* Minimal, readable defaults */
+    :root { --maxw: 900px; }
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; line-height: 1.6; margin: 0; color: #111; background: #fff; }
+    main { max-width: var(--maxw); margin: 0 auto; padding: 32px 16px 64px; }
+    h1, h2, h3 { line-height: 1.25; margin: 1.25em 0 .5em; }
+    h1 { font-size: 1.9rem; margin-top: 0; }
+    h2 { font-size: 1.25rem; }
+    p { margin: .6em 0; }
+    ul, ol { padding-left: 1.25rem; }
+    li { margin: .35em 0; }
+    a { color: #0b57d0; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .meta { color: #444; margin-top: .25rem; }
+    .section { margin-top: 1.5rem; padding-top: .25rem; }
+    .muted { color: #555; }
+    address { font-style: normal; }
+    hr { border: 0; border-top: 1px solid #e6e6e6; margin: 1.5rem 0; }
+    .small { font-size: .95rem; }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Privacy Policy for Xombiemoon Records App and Website</h1>
+  <p class="meta">
+    <strong>Effective Date:</strong>
+    <time datetime="2024-01-10">1/10/2024</time>
+    &nbsp;|&nbsp;
+    <strong>Last Updated:</strong>
+    <time datetime="2025-10-25">10/25/2025</time>
+  </p>
+
+  <section id="introduction" class="section">
+    <h2>1. Introduction</h2>
+    <p>Welcome to Xombiemoon Records ("the App," "the Website," "we," "our," or "us").</p>
+    <p>Xombiemoon Records is operated by Xombiemoon Records LLC and provides an online platform and mobile app that allows users to:</p>
+    <ul>
+      <li>Explore and purchase gothic products, movies, and records.</li>
+      <li>Register as artists and upload music (after admin approval).</li>
+      <li>Stream and listen to uploaded music from verified artists.</li>
+    </ul>
+    <p>This Privacy Policy explains how we collect, use, and protect your personal information when you use our mobile application (available on Google Play) and our website
+      <a href="https://xombiemoonrecords.com" rel="noopener">https://xombiemoonrecords.com</a>.
+    </p>
+    <p>By downloading, registering, or using our services, you agree to this Privacy Policy.</p>
+  </section>
+
+  <section id="information-we-collect" class="section">
+    <h2>2. Information We Collect</h2>
+
+    <h3>a. Information You Provide</h3>
+    <ul>
+      <li><strong>Account Details:</strong> When you register as a user or artist, we collect your name, email address, password, and profile details.</li>
+      <li><strong>Artist Verification:</strong> Artists are required to upload a profile photo and a sample track for admin review.</li>
+      <li><strong>Order Information:</strong> When purchasing products, we collect delivery address, contact number, and order details.</li>
+      <li><strong>Communication:</strong> When you contact us for support or feedback, we collect your message and related contact details.</li>
+    </ul>
+
+    <h3>b. Information Collected Automatically</h3>
+    <ul>
+      <li><strong>Cookies and Analytics:</strong> Our website uses cookies and similar technologies to improve user experience, track usage, and remember preferences.</li>
+    </ul>
+
+    <h3>c. Payment Information</h3>
+    <ul>
+      <li>Payments are securely processed through Square or other authorized providers.</li>
+      <li>We do not store or access your full payment card information — it is transmitted directly to the payment processor for authorization.</li>
+      <li>For Cash on Delivery (COD), only delivery details are collected to complete the order.</li>
+    </ul>
+  </section>
+
+  <section id="how-we-use" class="section">
+    <h2>3. How We Use Your Information</h2>
+    <ul>
+      <li>To create and manage user and artist accounts.</li>
+      <li>To verify and approve artist submissions.</li>
+      <li>To process product orders, payments, and deliveries.</li>
+      <li>To enable music upload, streaming, and playback functionality.</li>
+      <li>To personalize content, recommendations, and offers.</li>
+      <li>To send transactional emails (order confirmations, updates).</li>
+      <li>To improve our app, website, and overall user experience.</li>
+      <li>To comply with legal obligations and prevent fraud.</li>
+    </ul>
+  </section>
+
+  <section id="how-we-share" class="section">
+    <h2>4. How We Share Your Information</h2>
+    <p>We only share information when necessary:</p>
+    <ul>
+      <li><strong>Service Providers:</strong> With trusted third parties (e.g., hosting, payment processors, logistics) to perform services on our behalf.</li>
+      <li><strong>Legal Requirements:</strong> If required by law, regulation, or legal process.</li>
+      <li><strong>Business Transfers:</strong> In the event of a merger, acquisition, or sale of assets, your information may be transferred as part of that process.</li>
+    </ul>
+    <p><strong>We never sell your personal data to third parties.</strong></p>
+  </section>
+
+  <section id="data-security" class="section">
+    <h2>5. Data Security</h2>
+    <p>We use industry-standard measures to protect your information, including:</p>
+    <ul>
+      <li><strong>Encryption:</strong> Sensitive data (such as payment info) is encrypted during transmission using SSL.</li>
+      <li><strong>Access Control:</strong> Only authorized personnel can access personal data.</li>
+      <li><strong>Secure Hosting:</strong> Our servers are protected by firewalls and monitored for vulnerabilities.</li>
+    </ul>
+    <p class="small muted">Although we strive for strong security, no system is completely foolproof. We encourage users to keep their credentials safe.</p>
+  </section>
+
+  <section id="your-rights" class="section">
+    <h2>6. Your Rights and Choices</h2>
+    <ul>
+      <li>Access, correct, or delete your personal information in your account settings or by contacting us.</li>
+      <li>Opt out of marketing communications via unsubscribe links or by emailing us.</li>
+      <li>Disable cookies through browser or device settings.</li>
+      <li>Request deletion of your artist profile or uploaded content at any time.</li>
+    </ul>
+  </section>
+
+  <section id="childrens-privacy" class="section">
+    <h2>7. Children’s Privacy</h2>
+    <p>Our services are not intended for children under 13 years of age, and we do not knowingly collect data from them. If we learn that a child under 13 has provided information, we will promptly delete it.</p>
+  </section>
+
+  <section id="intl-transfer" class="section">
+    <h2>8. International Data Transfers</h2>
+    <p>Our servers are based in the United States. If you access our services from another country, your data may be transferred and processed in the U.S., which may have different data protection laws. By using our services, you consent to this transfer.</p>
+  </section>
+
+  <section id="changes" class="section">
+    <h2>9. Changes to This Policy</h2>
+    <p>We may update this Privacy Policy periodically to reflect new features, regulations, or security practices. Updates will be posted on this page with a new effective date. Continued use of our services after changes means you accept the revised terms.</p>
+  </section>
+
+  <section id="contact" class="section">
+    <h2>10. Contact Us</h2>
+    <p>If you have any questions, concerns, or feedback regarding this Privacy Policy, please contact us at:</p>
+    <address>
+      <strong>Email:</strong> <a href="mailto:exeliusmorales@gmail.com">exeliusmorales@gmail.com</a><br />
+      <strong>Mail:</strong> Xombie Moon Record<br />
+      445 W Dakota Ave, Fresno, CA 93727<br />
+      <strong>Website:</strong> <a href="https://xombiemoonrecords.com" rel="noopener">https://xombiemoonrecords.com</a>
+    </address>
+  </section>
+
+  <hr />
+  <p class="small muted">© <span id="year">Xombiemoon Records</span></p>
+</main>
+
+<script>
+  // Optional: keep the footer year label tidy without implying any legal meaning
+  (function () {
+    var el = document.getElementById('year');
+    if (el) el.textContent = new Date().getFullYear() + ' Xombiemoon Records';
+  })();
+</script>
+</body>
+</html>
